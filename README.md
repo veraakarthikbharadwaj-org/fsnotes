@@ -1,4 +1,4 @@
-# FSNotes
+# FSNotes - try 1
 
 FSNotes is modern notes manager for macOS and iOS.
 
